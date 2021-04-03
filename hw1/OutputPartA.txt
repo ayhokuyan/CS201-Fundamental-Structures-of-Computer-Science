@@ -1,0 +1,15 @@
+The Lord of the Rings, 31.25 TL (2007)
+The Dispossessed, 25.35 TL (1974, 2004)
+The Dispossessed, 25.35 TL (1974, 1990, 2010, 1990)
+The Lord of the Rings, 31.25 TL (none)
+Enter all edition years for The Dispossessed : 2001 2017 2019
+The Dispossessed, 25.35 TL (2001, 2017, 2019)
+Enter all edition years for The Dispossessed :    			  	 
+The Dispossessed, 25.35 TL (none)
+Enter all edition years for The Dispossessed : 1979	2001 	2012  		 	 2017
+The Dispossessed, 25.35 TL (1979, 2001, 2012, 2017)
+The Dispossessed, 25.35 TL (1974, 1990, 2010, 1990)
+
+cd Desktop/cs201/hw1
+g++ Book.cpp mainPartA.cpp -o outA.o
+./outA.o

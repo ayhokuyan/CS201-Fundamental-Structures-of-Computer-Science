@@ -1,0 +1,23 @@
+Enter all edition years for Love in the Time of Cholera : 1985 1988 2010
+
+Tutunamayanlar, 40.5 TL (none)
+Bir Gun Tek Basina, 34.99 TL (1974, 1998, 2007)
+Love in the Time of Cholera, 40 TL (1985, 1988, 2010)
+Die Blendung, 27.75 TL (none)
+
+Tutunamayanlar, 40.5 TL (none)
+Love in the Time of Cholera, 40 TL (1985, 1988, 2010)
+Die Blendung, 27.75 TL (none)
+
+Cannot access a non-existing book (The Little Prince)
+Cannot add an already existing book (Die Blendung)
+Cannot remove a non-existing book (The Waves)
+
+Tutunamayanlar, 40.5 TL (none)
+Love in the Time of Cholera, 40 TL (1985, 1988, 2010)
+Die Blendung, 27.75 TL (none)
+
+The Catcher in the Rye, 20 TL (none)
+Love in the Time of Cholera, 40 TL (1985, 1988, 2010)
+Die Blendung, 27.75 TL (none)
+
